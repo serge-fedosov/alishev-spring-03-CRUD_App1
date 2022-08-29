@@ -59,8 +59,14 @@
       <scope>provided</scope>
     </dependency>
 
+    <dependency>
+      <groupId>org.hibernate.validator</groupId>
+      <artifactId>hibernate-validator</artifactId>
+      <version>6.2.4.Final</version>
+    </dependency>
+
   </dependencies>
   <build>
-    <finalName>spring-mvc-app1</finalName>
+    <finalName>crud-app1</finalName>
   </build>
 </project>
